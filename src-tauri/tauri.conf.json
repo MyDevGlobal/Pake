@@ -1,12 +1,12 @@
 {
   "package": {
-    "productName": "WeRead",
+    "productName": "Drili",
     "version": "1.0.0"
   },
   "tauri": {
     "windows": [
       {
-        "url": "https://weread.qq.com/",
+        "url": "Drili.cn",
         "transparent": true,
         "fullscreen": false,
         "width": 1200,
